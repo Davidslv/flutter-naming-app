@@ -2,6 +2,22 @@
 
 A Flutter Demo Project.
 
+## Run App
+
+```
+$ flutter run
+```
+
+## Demo
+
+
+
+https://github.com/Davidslv/flutter-naming-app/assets/136777/2fb89358-3c45-4ade-81b8-f7d3322aa86c
+
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

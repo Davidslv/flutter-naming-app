@@ -1,6 +1,6 @@
-# namer_app
+# Flutter Naming App
 
-A new Flutter project.
+A Flutter Demo Project.
 
 ## Getting Started
 
